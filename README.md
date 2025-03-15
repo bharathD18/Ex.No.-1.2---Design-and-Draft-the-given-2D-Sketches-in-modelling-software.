@@ -1,5 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+name: bharath.D
+reg no: 24900875
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -37,6 +38,7 @@
 
  ## OUTPUT
  
- 
+ ![WhatsApp Image 2025-03-15 at 10 52 24_de9d2671](https://github.com/user-attachments/assets/8f35ad29-700d-402a-9850-0c1952eff234)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
